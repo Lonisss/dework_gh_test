@@ -1,1 +1,3 @@
 let first;
+
+let second;
